@@ -7,7 +7,7 @@
 
 # THANKS
 
-    <name>
+    To all my students (change made in rama_rebase)
 
 # TECHNOLOGY COLOPHON
 
