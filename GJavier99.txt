@@ -3,3 +3,5 @@ This file is made by GJavier99
 testing GIT_SSH_COMMAND="ssh -i ~/.ssh/GJavier99" git pull origin master
 
 2nd change by GJavier99 
+
+3d change byJavier99
