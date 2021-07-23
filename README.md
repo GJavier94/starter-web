@@ -19,3 +19,6 @@ Please for this repository and issure pull requests for review
 ### Copyright
 
 Copyright 2021. Git Training
+<!--
+	first change on master branch 
+	-->
